@@ -117,7 +117,7 @@ export class Doctor extends React.Component {
             style={{
               height: '63%',
               width: '100%',
-              backgroundColor: '#faf',
+              //backgroundColor: '#faf',
               alignItems: 'center',
               justifyContent: 'center',
             }}>
